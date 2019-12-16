@@ -15,7 +15,6 @@ data_description.txt - full description of each column, originally prepared by D
 
 
 Data fields
-
 Here's a brief version of what you'll find in the data description file.
 
     SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
